@@ -1,0 +1,9 @@
+{
+	"name": "ADFGITRepository",
+	"location": "eastus",
+	"identity": {
+		"type": "SystemAssigned",
+		"principalId": "9bc2ca9c-addb-4167-862b-1fca7d86c982",
+		"tenantId": "40b6d126-b343-4790-80e7-d083bf59ef12"
+	}
+}
